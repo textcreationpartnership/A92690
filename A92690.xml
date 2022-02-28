@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, for calling out heretors and fencible men, to attend the King's host</title>
+            <title>Proclamations. 1692-05-09</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92690</idno>
+            <idno type="STC">Wing S1851</idno>
+            <idno type="STC">ESTC R229998</idno>
+            <idno type="EEBO-CITATION">99895765</idno>
+            <idno type="PROQUEST">99895765</idno>
+            <idno type="VID">153325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2359:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, for calling out heretors and fencible men, to attend the King's host</title>
+                  <title>Proclamations. 1692-05-09</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to their most excellent Majesties,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>At end of text: Given under our signet at Edinburgh, the ninth day of May. And of our reign, the fourth year, 1692.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Scotland --  History --  1689-1745 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:153325:1" rendition="simple:additions"/>
+            <head>
+               <hi>A PROCLAMATION,</hi> For Calling out Heretors and Fencible Men, to attend the KING'S Hoſt.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM and MARY, by the Grace of GOD, King and Queen of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defenders of the Faith;</signed>
+               <salute>To Our Lyon King at Arms, his Brethren Heraulds, Macers of Our Privy Council, Purſevants, Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially con<g ref="char:EOLhyphen"/>ſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch as, We, with Advice of Our Pri<g ref="char:EOLhyphen"/>vy Council, have thought fit, for putting the Countrey in a poſture of Defence, againſt an Invaſion of <hi>French</hi> and <hi>Iriſh</hi> Papiſts, threatned to this Our Antient Kingdom, whereby it may become the Seat of a Bloody War, to appoint all the Fencible Perſons betwixt ſixty and ſixteen, in the Shires under-written, being neareſt to the places where the ſaid Invaſion is apprehended to be deſigned, to be in readineſs when advertiſed, with their beſt Horſes, Arms and Proviſions, to attend Our Hoſt, for Reſiſting the ſaid horrid Invaſion, and have named ſeveral Officers to Command the Heretors and Fencible Men, who are not Heretors; And by Letters direct from Our Privy Council for that effect, have impowered the the ſaid Officers named, with conſent of the Commiſſioners, to name the other In<g ref="char:EOLhyphen"/>ferior Officers not already Nominat by Our Privy Council, in the ſaids ſeveral Let<g ref="char:EOLhyphen"/>ters, and to Intimat a place of Rendezvouz for the ſaids Heretors to Rendezvouz at, when advertiſed, and particular places within each Paroch for Fencible Men, who are not Heretors, to Aſſemble and Rendezvouz at, when required; And it being convenient, the ſaids Heretors, and other Fencible Men, ſhould be Ren<g ref="char:EOLhyphen"/>dezvouzed and Muſtered by their Officers at the ſaids places, at ſome fit day be<g ref="char:EOLhyphen"/>fore it be neceſſary to Call them out to Action, to the end their Number, Arms, and other Proviſions requiſit, may be the better known; Therefore We, with Advice of Our Privy Council, peremptorly Require and Command, all Here<g ref="char:EOLhyphen"/>tors, Wodſetters and Liferenters, betwixt ſixty and ſixteen, who are Fencible Men, within the Shires and Stewartrie following, with their beſt Horſes and Arms, to Rendezvouz, under the Command of the Officers who are, or ſhall be ap<g ref="char:EOLhyphen"/>pointed, and that upon the Days and at the Places reſpective aftermentioned, <hi>viz.</hi> The Heretors of the Shire of <hi>Edinburgh,</hi> at the <hi>Links of Leith,</hi> the thirty firſt Day of <hi>May;</hi> The Heretors of the Shire of <hi>Haddingtoun,</hi> at <hi>Beenſtoun Muir,</hi> the ſaid Day; The Heretors of the Shire of <hi>Berwick,</hi> at <hi>Fogo-Muir,</hi> the ſaid Day; The Heretors of the Shire of <hi>Roxburgh,</hi> on the Muir upon the South-ſide of <hi>Ancrum-Bridge,</hi> the ſaid Day; The Heretors of the Shire of <hi>Selkirk,</hi> at <hi>Selkirk,</hi> the ſaid Day; The Heretors of the Shire of <hi>Peebles,</hi> at <hi>Peebles,</hi> the ſaid Day; The He<g ref="char:EOLhyphen"/>retors of the Shires of <hi>Strivling</hi> and <hi>Clackmannan,</hi> at <hi>Strivling,</hi> the ſaid Day; The Shires of <hi>Fife</hi> and <hi>Kinroſs,</hi> at <hi>Edenſmuir,</hi> the ſaid Day; The Heretors of the Shire of <hi>Linlithgow</hi> at <hi>Linlithgow-Bridge,</hi> the ſaid Day; The Heretors of the Shire of <hi>Lanerk,</hi> at <hi>Hamiltoun,</hi> the ſaid thirty firſt Day; The Heretors of the Shire of <hi>Air,</hi> at <hi>Air,</hi> the ſaid Day; The Heretors of the Shire of <hi>Argile,</hi> at <hi>Inveraray</hi> the ſaid Day; The Heretors of the Shire of <hi>Dumbartoun,</hi> at <hi>Dumbartoun</hi> the ſaid Day;
+<pb n="2" facs="tcp:153325:2"/>The Heretors of the Shire of <hi>Renfrew,</hi> at <hi>Renfrew-Muir,</hi> the ſaid Day; The He<g ref="char:EOLhyphen"/>retors of the Shire of <hi>Dumfreis,</hi> at <hi>Dumfries,</hi> the ſaid Day; The Heretors of the Shire of <hi>Wigtoun</hi> and Stewartry of <hi>Kirkoudbright,</hi> at <hi>Glenluce,</hi> the ſaid Day; all at ten Hours in the forenoon. And ſicklike We, with Advice foreſaid, perem<g ref="char:EOLhyphen"/>ptorly Require and Command, all the Fencible Perſons within the ſaids Shires and Stewartrie, not being Heretors, to Rendezvouz under their ſeveral Captains, at the Chief Town or Paroch Kirk within each Captains bounds, upon the nineteenth Day of <hi>May</hi> inſtant, with their beſt Arms; And We hereby ordain the Comman<g ref="char:EOLhyphen"/>ders of the ſaids Heretors, and Captains of the ſaids Fencible Men, who are not Heretors, to make Liſts of the perſons who ſhall appear at the ſaids ſeveral Ren<g ref="char:EOLhyphen"/>dezvouzes, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaids Commanders of the Heretors to make Report to Our Council, of the condition of the Horſe and Arms of ſuch H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>retors as do appear, with all poſſible D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligence, and at furtheſt within eight Days thereafter, together with a Liſt of ſuch Heretors as appear not at the ſaids Rendezvouzes, from the Clerks to the Commiſſioners of Supply, out of the Books and Rolls of Aſſeſſ<g ref="char:EOLhyphen"/>ment, for the ſaids reſpective Shires and Stewartrie, which the Clerks are here<g ref="char:EOLhyphen"/>by Ordained to give them <hi>gratis,</hi> and that they take Tryal what Arms the ſaids abſents have, or Horſes above the value of an hundred Merks <hi>Scots:</hi> And We Ordain the ſaids Captains of the Fencible Men, who are not Heretors, betwixt and the Day foreſaid, to make Report to Our Privy Council, of the number of Per<g ref="char:EOLhyphen"/>ſons, and their Names who ſhall appear at their ſeveral Rendezvouzes, and the neareſt eſtimat they can make what greater number might have been expected, if all the Fencible men, not Heretors, had attended the ſaids Rendezvo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zes, and of the co<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dition of their Arms, and whether they have any other or better Arms. And We Conſidering, that by the 28 <hi>Act</hi> of the 2d <hi>Seſſion</hi> of Our current <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> Our Privy Council is Authorized to put the Oath of Allegiance, and the Aſſurance ſubjoined to the ſaid <hi>Act,</hi> to every Subject of this Realm, as they ſhall ſee cauſe; Declaring ſuch as ſhall refuſe to Subſcribe the ſame, ſhall be repute D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſaffected to Our Government, and be deprived of any Offices, Benefices and Juriſdictions which they enjoy, and ſhall be obliged to give ſuch Security for their good behaviour, and that they ſhall Act nothing againſt Our Government, as Our Council ſhall think fit, providing it extend no further than Bond, Caution, or perſonal Impriſonment, ſecuring of Horſes, and Arms, or Garriſoning of Houſes; And ſeing there can be no greater occaſion to call for ſuch Security and Aſſurance to Us. and Our Government, from Our ſeveral Subjects, and particularly the per<g ref="char:EOLhyphen"/>ſons intruſted by Us, with the Command of the Heretors or Fencible Men; And the ſaids Heretors and Fencible Men themſelves, within the ſeveral Shires and Stewartrie above-named, than the preſent threatned Invaſion, and the ſecuring the Peace and Quiet of the Countrey, at ſuch a time, from all Treaſonable Miſ<g ref="char:EOLhyphen"/>chiefs, which may be Intented or Deſigned by perſons Diſaffected to Us and Our Government: Therefore VVe, with Advice of Our Privy Council, Appoint and Require, all the Officers already Named by Our Privy Council, to Command the ſaids Heretors and Fenc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble Men, betwix and the ſeventeenth Day of <hi>May</hi> current, to Swear and Subſcribe the Oath of Allegiance and Sign the Aſſurance, in preſence of the Commiſſioners of Supply of the ſaids reſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive Shires, or any two of them, or to Inſtruct before them, that they have already Sworn, and Signed the ſame, which is to be Reported by the Commiſſioners to Our Privy Council, with a Liſt of the Inferiour Officers to be Named, with Conſent of Our ſaids Commiſſioners, within eight Days after at furtheſt: And albeit VVe, Have Reſol<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to put no diſtinguiſhing Character upon any of Our Subjects, without evident Grou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds of Suſpition, that they will comply with this abominable Deſign of Invaſion, whereby Religion, Liberty and Property may be betrayed into the hands of the moſt Bigot, Barbarous and Cruel Papiſts: Therefore, and for the Diſcov<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry of the ſaids Diſaffected Perſons, VVe with Advice foreſaid, hereby Require and Command the whole Heretors, VVodſetters and Liſerenters, who
+<pb n="3" facs="tcp:153325:2"/>are Fencible Men, within the ſaids ſeveral Shires and Stewartry, to attend upon and meet with the Juſtices of Peace within the ſame, or any two of them, upon one or other of the Days, and at the Dyets under-written, or to ſuch particular Day and Dyet as the ſaids Juſtices of Peace ſhall Require any of them who does not attend the Dyets of the firſt VVeek after-mentioned: And ſickhke, That the ſaids Juſtices of Peace do meet and attend at the Head-Burgh of the Reſpe<g ref="char:EOLhyphen"/>ctive Shires and Stewartry, from ten to twelve in the Forenoon, and from two to four in the a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ternoon, with the Clerk of Supply to ſerve them for the time, each <hi>Wedneſday</hi> and <hi>Thurſday</hi> of every Week, until the Rendezvouz of the ſaids Here<g ref="char:EOLhyphen"/>tors, at the Days above ſet down, to propoſe to all the Heretors, Wodſetters and Liferenters, who are Fencible Men within their ſeveral Juriſdictions, the Ingage<g ref="char:EOLhyphen"/>ment unde-written (whereof the Tenor is hereto ſubjoyned) and to make re<g ref="char:EOLhyphen"/>turn of the Subſcriptions, of ſuch as do wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lingly Subſcribe the ſame, to Our Pri<g ref="char:EOLhyphen"/>vy Council, with all poſſible Diligence, after the ſaid Day, that it may be known of whom the ſaid Oath of Allegiance and Bond of Aſſurance ſhould be required, conform to, and under the Certifications in the foreſaid <hi>Act</hi> of <hi>Parliament:</hi> And We, with Advice foreſaid, Require and Command the ſaids Juſtices of Peace to Tender and Adminiſtrat the Oath of Allegiance and Aſſurance, to all ſuch of the ſaids Heretors, Wodſetters and Liferenters within their Reſpective Bounds, as ſhall not voluntarly Subſcribe the ſaid Ingagement: And in like manner, VVe with Advice foreſaid, peremptorly Command and Charge, under the pain of Rebelli<g ref="char:EOLhyphen"/>on, and being put to Our Horn, and to be further purſued and puniſhed, as per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> diſaffected to Our Government, all the Fencible Heretors, Liferenters and Wodſetters, betwixt ſixty and ſixteen, who ſhall not appear before the Juſtices of Peace at the Dyets foreſaid, or appearing, ſhall not Subſcribe the ſaid Engage<g ref="char:EOLhyphen"/>ment, and each one of them to deliver upon Oath their Horſes above the price of an Hundred Merks, with their Furniture and Arms into the hands of the Juſtices of Peace of the ſaids ſeveral Shires and Stewartry to be Secured by them, for the publick Service. And the ſaids Juſtices of Peace are hereby Authorized and Required, to give and put the ſaids Horſes with their Furniture, in the cuſtody and keeping of Stablers, Hoſtlers, or In keepers, or in the cuſtody of other perſons who ſhall undertake to keep and be anſwerable for themat the ordinary Rates to be payed by their Owners, and ſhall reſtore the ſame again with the Furniture and Arms to the pro<g ref="char:EOLhyphen"/>per Owners thereof, when the preſent Danger is Declared by Proclamation to be over; and that in the mean time the ſaids Horſes ſhall be imployed for no other uſe but for publick Service, in caſe of an Invaſion, or Inſurrection. And We, with Advice foreſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id, Declare, That what Damnage or Detriment ſhall befal the ſaids Horſes, Furniture and Arms, through the fault of the ſaids Keepers, or their Ryders, to whom they ſhall be committed, ſhall be ſatisfied and paid to the re<g ref="char:EOLhyphen"/>ſpective Owners; With Power nevertheleſs to the ſaids Stablers, Hoſtlers, or o<g ref="char:EOLhyphen"/>thers Keepers of the ſaids Horſes, to purſue and call for the price of what Enter<g ref="char:EOLhyphen"/>tainment they ſhall have advanced for the ſaids Horſes, from their reſpective Own<g ref="char:EOLhyphen"/>ers, at the ordinar Rates, when, and in what manner ſoever they think fit and con<g ref="char:EOLhyphen"/>venient; And becauſe it may contribute much to Our Service in the Premiſſes, that there be Juſtices of Peace appointed in the ſaids Shires where they are wanting; Therefore We, with Advice foreſaid, conform to the <hi>Act</hi> of <hi>Parliament</hi> made there<g ref="char:EOLhyphen"/>anent, Declare, Appoint and Authorize the Commiſſioners of Supply, of the re<g ref="char:EOLhyphen"/>ſpective Shires foreſaids, who have or ſhall qualifie themſelves according to Law, to be Juſtices of Peace in the ſaids Shires, with power to them to do and perform every thing, which to the ſaid Office and Truſt is competent, and known to be<g ref="char:EOLhyphen"/>long and pertain, by the ſeveral Laws and Acts of Parliament made thereanent, and Inſtructions <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herein ſet down. OUR WILL IS Herefore, and We Charge you ſtraitly and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat Croſs of <hi>Edinburgh,</hi> and to the remanent Mercat-Croſſes of the whole Head-Burghs of the ſeveral Shires and Stewartry above-named, and there
+<pb n="4" facs="tcp:153325:3"/>in Our Name and Authority, by open Proclamation, make publication of the Premiſſes, that none pretend Ignorance. And Ordains theſe Preſents to be Prin<g ref="char:EOLhyphen"/>ted.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the ninth day of <hi>May.</hi> And of Our Reign, the fourth year, <hi>1692.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Per actum Dominorum Secreti Concilii. In Supplimentum Signeti.</hi> GILB, ELIOT, <hi>Cls. Sti. Concilii.</hi>
+               </signed>
+            </closer>
+            <closer>GOD Save King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </closer>
+         </div>
+         <div type="oath">
+            <head>Follows the Tenor of the Ingagement.</head>
+            <p>WE <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Bind and Oblige us upon our Honour, and the Faith of a Christian, that we ſhall live peaceably un<g ref="char:EOLhyphen"/>der the Government of their Majeſties, King <hi>William</hi> and Queen <hi>Mary,</hi> King and Queen of this Realm, and ſhall Act, Conſult, or Contrive nothing in preju<g ref="char:EOLhyphen"/>dice thereof, nor concur with, nor Aſſiſt any Invaſion or Inſurrection in <hi>Britain,</hi> by Coun<g ref="char:EOLhyphen"/>ſel, Contribution of Money, Horſes, Arms, Ammunition, or any other Warlike Force, and ſhall not Converſe with, Entertain, Harbour, Reſet, or Conceal any of the ſaids Invaders, or their Partakers, Aſſociats, or Accomplices, whatever they ſhall profeſs or pretend to be their Cauſe or Deſign, by the preſence or Command of the late King <hi>James,</hi> or any other ways.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſties, <hi>Anno DOM.</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
